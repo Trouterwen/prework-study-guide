@@ -2,41 +2,20 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This is a Prework study guide webpage I built in order to help me better understand the topics i will be covering in this bootcamp course. Those topics include CSS, HTML, JavaScript, CLI commands, and Git Commands. It gave me the tools and insight to fix the problems i may run into in the real world. Wanting to learn the ins and outs of each of the topics gave me the motivation to make this project because i know these things are used everyday in daily lives.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+This Webpage lists a set of topics to study pertaining to web development. Each topic has a short list of notes based on each of the topics listed. If the page is inspected through chrome by right clicking and choosing inspect you can see the topics added to the console tab. Refreshing the page will randomly cycle through the topics to help you decide which one to study first. 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
